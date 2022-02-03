@@ -1,5 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@500;700&family=Open+Sans:wght@300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Bai Jamjuree', sans-serif;
+}
 
 
 .bordes{
     border: solid 1px black;
+}
+.parrafo{
+    padding: 20px;
+    background-color: rgb(137, 127, 106);;
+}
+.footer {
+    padding-top: 20px;
+    padding-bottom: 20px; }
+  
+  .footer__ubicanos {
+    text-align: left; }
+  
+  .footer__seguinos {
+    text-align: center; }
+  
+  .footer__politicas {
+    text-align: right;
+    color: white; }
+.loguito{
+    margin: 5px;
+}
+.menu{
+    display: flex;
+    justify-content: flex-end;
 }
