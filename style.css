@@ -7,16 +7,22 @@
 }
 body{
     font-family: 'Bai Jamjuree', sans-serif;
+    background-color: lightgray;
 }
 
 
 .bordes{
-    border: solid 1px black;
+    border-top: solid 5px lightgray;
+    border-bottom: solid 5px lightgray;
+
 }
 .parrafo{
     padding: 20px;
-    background-color: rgb(137, 127, 106);;
+    background-color: rgb(137, 127, 106);
+    font-weight: bold;
+  
 }
+
 .footer {
     padding-top: 20px;
     padding-bottom: 20px; }
@@ -33,16 +39,42 @@ body{
 .loguito{
     margin: 5px;
 }
+.logocolor{
+    padding: 100px 150px;
+
+}
 .menu{
     display: flex;
     justify-content: flex-end;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> ramaprueba
 .posicionUbicacion {
     display: flex;
     justify-content: center;
     background-color: rgb(137, 127, 106);;
     padding-top: 15px;
     padding-bottom: 15px; }
+<<<<<<< HEAD
 >>>>>>> parent of 5edd352 (ultimos detalles)
+=======
+
+    .botonAni{
+        display: flex;
+        justify-content: center;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .botonAni:hover{
+        background-image: linear-gradient(to left, rgb(137, 127, 106), lightgrey);
+    }
+    .iconos_inicio {
+        display: flex;
+        justify-content: center;
+    }
+
+    <!-- Footer <-<-<-<-<-<-Q(-_-Q) -->
+>>>>>>> ramaprueba
