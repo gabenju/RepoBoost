@@ -12,12 +12,17 @@ body{
 
 
 .bordes{
-    border: solid 1px black;
+    border-top: solid 5px lightgray;
+    border-bottom: solid 5px lightgray;
+
 }
 .parrafo{
     padding: 20px;
-    background-color: rgb(137, 127, 106);;
+    background-color: rgb(137, 127, 106);
+    font-weight: bold;
+  
 }
+
 .footer {
     padding-top: 20px;
     padding-bottom: 20px; }
@@ -48,3 +53,18 @@ body{
     background-color: rgb(137, 127, 106);;
     padding-top: 15px;
     padding-bottom: 15px; }
+
+    .botonAni{
+        display: flex;
+        justify-content: center;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .botonAni:hover{
+        background-image: linear-gradient(to left, rgb(137, 127, 106), lightgrey);
+    }
+    .iconos_inicio {
+        display: flex;
+        justify-content: center;
+    }
+.tituloindex{
