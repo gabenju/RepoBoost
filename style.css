@@ -28,17 +28,21 @@ h3{
 
 .footer {
     padding-top: 20px;
-    padding-bottom: 20px; }
+    padding-bottom: 20px; 
+}
   
   .footer__ubicanos {
-    text-align: left; }
+    text-align: left; 
+}
   
   .footer__seguinos {
-    text-align: center; }
+    text-align: center; 
+}
   
   .footer__politicas {
     text-align: right;
-    color: white; }
+    color: white; 
+}
 .loguito{
     margin: 5px;
 }
@@ -50,20 +54,13 @@ h3{
     display: flex;
     justify-content: flex-end;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> ramaprueba
+
 .posicionUbicacion {
     display: flex;
     justify-content: center;
     background-color: rgb(137, 127, 106);;
     padding-top: 15px;
     padding-bottom: 15px; }
-<<<<<<< HEAD
->>>>>>> parent of 5edd352 (ultimos detalles)
-=======
 
     .botonAni{
         display: flex;
@@ -79,5 +76,5 @@ h3{
         justify-content: center;
     }
 
-    <!-- Footer <-<-<-<-<-<-Q(-_-Q) -->
->>>>>>> ramaprueba
+    /* Footer <-<-<-<-<-<-Q(-_-Q) -->*/
+
