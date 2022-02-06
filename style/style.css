@@ -7,10 +7,12 @@
 }
 body{
     font-family: 'Bai Jamjuree', sans-serif;
-    background-color: lightgray;
+    background-color: lightgrey;
 }
 h3{
-    color: red;
+    color: black;
+    font-size: xx-large;
+    font-weight: 300;
 }
 
 
@@ -60,7 +62,8 @@ h3{
     justify-content: center;
     background-color: rgb(137, 127, 106);;
     padding-top: 15px;
-    padding-bottom: 15px; }
+    padding-bottom: 15px; 
+}
 
     .botonAni{
         display: flex;
@@ -75,6 +78,6 @@ h3{
         display: flex;
         justify-content: center;
     }
-
-    /* Footer <-<-<-<-<-<-Q(-_-Q) -->*/
-
+.carrusel{
+    padding: 1px;
+}
